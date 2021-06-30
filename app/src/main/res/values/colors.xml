@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#000000</color>
+    <color name="colorAccent">#03DAC5</color>
+    <color name="white1">#FFFFFF</color>
+    <color name="white2">#CCFFFFFF</color>
+    <color name="zero_button">#333333</color>
+    <color name="buttons">#333333</color>
+    <color name="arithmetic_buttons">#FE9E09</color>
+    <color name="another_three_buttons">#A5A5A5</color>
+</resources>
